@@ -1,3 +1,4 @@
 Source	Used For/Reason
 1. https://www.geeksforgeeks.org/python/complete-guide-to-sarimax-in-python/	To learn more about Sarimax forecasting which is a statistical method
 2. https://www.geeksforgeeks.org/dsa/python-program-for-stock-buy-sell-to-maximize-profit/	To learn more about how python code for maximizing profit
+3. https://www.geeksforgeeks.org/data-science/time-series-analysis-using-facebook-prophet/	To learn more about Facebook Prophet, its terminology, and syntax
